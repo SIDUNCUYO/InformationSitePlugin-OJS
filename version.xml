@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/blocks/informationSite/version.xml
+  *
+  * Copyright (c) 2023 SID-UNCuyo
+  * Copyright (c) 2003 Horacio Degiorgi
+  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+  *
+  * Plugin version informationSite.
+  -->
+<version>
+	<application>informationSite</application>
+	<type>plugins.blocks</type>
+	<release>1.0.0.0</release>
+	<date>2009-07-13</date>
+	<lazy-load>1</lazy-load>
+	<class>InformationSiteBlockPlugin</class>
+</version>
